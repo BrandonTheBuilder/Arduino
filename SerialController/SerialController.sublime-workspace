@@ -1,0 +1,452 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"S",
+				"Serial"
+			],
+			[
+				"bel",
+				"bel1"
+			],
+			[
+				"m",
+				"m0_z0"
+			],
+			[
+				"m1",
+				"m1_z0"
+			],
+			[
+				"m0",
+				"m0_z0"
+			],
+			[
+				"z",
+				"z0_m0"
+			],
+			[
+				"z0",
+				"z0_m1"
+			],
+			[
+				"z1",
+				"z1_m0"
+			],
+			[
+				"Pea",
+				"Peak"
+			],
+			[
+				"p",
+				"p"
+			],
+			[
+				"Se",
+				"SettlingTime"
+			],
+			[
+				"Rise",
+				"RiseTime"
+			],
+			[
+				"rap",
+				"rap1"
+			],
+			[
+				"E",
+				"E"
+			],
+			[
+				"e",
+				"e	exp"
+			],
+			[
+				"R",
+				"R2"
+			],
+			[
+				"d",
+				"dTheta"
+			],
+			[
+				"els",
+				"elseif	elseif"
+			],
+			[
+				"r",
+				"R"
+			],
+			[
+				"cu",
+				"currentLaserTheta"
+			],
+			[
+				"goal",
+				"goal"
+			],
+			[
+				"pu",
+				"publish"
+			],
+			[
+				"goa",
+				"goalAngle"
+			],
+			[
+				"cur",
+				"currentX"
+			],
+			[
+				"go",
+				"goalAngle"
+			],
+			[
+				"GO",
+				"goalX"
+			],
+			[
+				"for",
+				"format"
+			],
+			[
+				"D",
+				"DT"
+			],
+			[
+				"un",
+				"unicycleTracking"
+			],
+			[
+				"the",
+				"thetaD"
+			],
+			[
+				"po",
+				"polarFromCart"
+			],
+			[
+				"de",
+				"deltaV"
+			],
+			[
+				"Pol",
+				"testPolarFromCart"
+			],
+			[
+				"lo",
+				"localDV"
+			],
+			[
+				"f",
+				"fResult"
+			],
+			[
+				"co",
+				"coulombForce"
+			],
+			[
+				"O",
+				"OBSTACLE_CHARGE"
+			],
+			[
+				"glo",
+				"globR"
+			],
+			[
+				"an",
+				"angle_increment"
+			],
+			[
+				"c",
+				"currentX"
+			],
+			[
+				"current",
+				"currentLaserTheta"
+			],
+			[
+				"curr",
+				"currentAngle"
+			],
+			[
+				"C",
+				"C"
+			],
+			[
+				"P",
+				"p"
+			],
+			[
+				"dis",
+				"distanceArray"
+			],
+			[
+				"n",
+				"n"
+			],
+			[
+				"V0",
+				"V0"
+			],
+			[
+				"mu",
+				"mu"
+			],
+			[
+				"X",
+				"X"
+			],
+			[
+				"Vo",
+				"Vo"
+			],
+			[
+				"Tes",
+				"TestGoogleAPI"
+			],
+			[
+				"get",
+				"get_credentials"
+			],
+			[
+				"__",
+				"__file__"
+			],
+			[
+				"A",
+				"APPLICATION_NAME"
+			]
+		]
+	},
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "Arduino",
+		"selected_items":
+		[
+			[
+				"Arduino",
+				"Snippet: Arduino Serial.begin()"
+			],
+			[
+				"Set Syntax: A",
+				"Set Syntax: Arduino"
+			],
+			[
+				"Packa",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 153.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/loren/.config/sublime-text-3/Local/Auto Save Session.sublime_session",
+		"/opt/ros/indigo/share/geotiff",
+		"/home/loren/Workspaces/catkin_ws/odom_error.txt",
+		"/home/loren/Workspaces/catkin_ws/slam_error.txt",
+		"/home/loren/Workspaces/Matlab/SpaceSystemsEngineering/HW_TWO/Problem_Three.m",
+		"/home/loren/Workspaces/Matlab/SpaceSystemsEngineering/HW_TWO/OrbElemToPerifocal.m",
+		"/home/loren/Workspaces/Matlab/SpaceSystemsEngineering/HW_TWO/Problem_Two.m",
+		"/home/loren/lab2.py",
+		"/home/loren/Workspaces/catkin_ws/src/lab2/src/lab2.py",
+		"/home/loren/Workspaces/catkin_ws/src/lab2/src/Util.py",
+		"/home/loren/Workspaces/catkin_ws/src/lab2/launch/lab2.launch",
+		"/home/loren/Workspaces/catkin_ws/src/lab2/src/MatrixMath.py",
+		"/home/loren/Workspaces/catkin_ws/src/lab2/src/test_Util.py",
+		"/home/loren/Workspaces/catkin_ws/src/lab2/worlds/manyDots.world",
+		"/home/loren/Workspaces/catkin_ws/src/lab2/src/Rotate.py",
+		"/home/loren/Workspaces/Matlab/SpaceSystemsEngineering/HW_ONE/OrbElem.m",
+		"/home/loren/Workspaces/Matlab/SpaceSystemsEngineering/HW_ONE/problem_5.m",
+		"/home/loren/Workspaces/Matlab/SpaceSystemsEngineering/HW_ONE/test.m",
+		"/home/loren/Workspaces/catkin_ws/.gitignore",
+		"/home/loren/Notebooks/Notes/Git.txt",
+		"/home/loren/Workspaces/catkin_ws/devel/_setup_util.py",
+		"/home/loren/Notebooks/Notes/ROS.txt",
+		"/home/loren/Notebooks/Notes/.gitignore",
+		"/home/loren/Workspaces/catkin_ws/src/lab2/ReadMe",
+		"/home/loren/Workspaces/GoogleMint/GoogleAPI.py",
+		"/home/loren/Workspaces/GoogleMint/util/__init__.py",
+		"/home/loren/Workspaces/GoogleMint/model/__init__.py",
+		"/home/loren/Workspaces/GoogleMint/config/__init__.py",
+		"/home/loren/Workspaces/GoogleMint/config.py",
+		"/home/loren/.config/sublime-text-3/Packages/User/Distraction Free.sublime-settings",
+		"/home/loren/catkin_ws/src/stopper/src/stopper.py",
+		"/home/loren/catkin_ws/stopper/manifest.xml",
+		"/home/loren/catkin_ws/stopper/launch/stopper.launch",
+		"/home/loren/catkin_ws/stopper/worlds/manyDots.world",
+		"/home/loren/catkin_ws/stopper/src/stopper.py",
+		"/home/loren/Documents/ResumayJune2015.doc",
+		"/opt/ros/indigo/share/turtlesim/msg/Pose.msg",
+		"/opt/ros/indigo/share/turtlesim/srv/Kill.srv",
+		"/opt/ros/indigo/share/turtlesim/srv/SetPen.srv",
+		"/opt/ros/indigo/share/turtlesim/srv/Spawn.srv",
+		"/opt/ros/indigo/share/turtlesim/package.xml",
+		"/home/loren/.config/sublime-text-3/Packages/User/Plain text.sublime-settings",
+		"/home/loren/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"r",
+			"ax",
+			"Ax",
+			"ax",
+			"num",
+			"m",
+			"%",
+			"theta-thetaD",
+			"theta -thetaD",
+			"k3",
+			"k2",
+			"k1",
+			"	   ",
+			"command",
+			"c",
+			"distanc",
+			"pub",
+			"1",
+			")",
+			"+",
+			"discovery"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"lagrangeDTheta.m"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Workspaces/GoogleMint/GoogleMint.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 197.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
